@@ -1,0 +1,24 @@
+site_name: 南方医科大学
+theme:
+  name: material
+
+  icon:
+    logo: material/cat #log
+
+
+  language: zh
+
+  palette:
+    primary: indigo
+
+
+
+
+
+  features:
+    -navigation.tabs 顶部分类
+    -search.highlight 搜索高亮
+    -navigation.indexes 侧边栏索引
+
+copyright: Copyright © 2025 Online SMU All Rights Reserved
+
