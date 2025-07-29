@@ -1,41 +1,12 @@
 site_name: 南方医科大学
 
-markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      options:
-        custom_theme:
-          - custom_theme/favicon.svg
-
-
 
 
 theme:
   name: material
-  custom_dir: custom_theme/
- 
-  language: zh
-
-  palette:
-    primary: custom
-
-  icon:
-    logo: favicon
 
 
 
-  features:
-    -navigation.tabs 顶部分类
-    -search.highlight 搜索高亮
-    -navigation.indexes 侧边栏索引
-    -navigation.expand 
-    -navigation.path
-    
-    -navigation.footer
-
-extra_css:
-  - stylesheets/extra.css
   
 copyright: Copyright © 2025 Online SMU All Rights Reserved
 
@@ -48,7 +19,6 @@ copyright: Copyright © 2025 Online SMU All Rights Reserved
 nav:
 
 
-  - 首页: index.md
   - 前言: 
     - 前言1.0: 前言\前言1.0.md
     - 前言2.0: 前言\前言2.0.md
