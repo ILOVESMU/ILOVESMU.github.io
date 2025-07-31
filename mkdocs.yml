@@ -48,7 +48,7 @@ extra_javascript:
 
 nav:
 
-
+  - 首页: index.md
   - 前言: 
     - 前言1.0: 前言\前言1.0.md
     - 前言2.0: 前言\前言2.0.md
