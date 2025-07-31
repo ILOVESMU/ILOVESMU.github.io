@@ -5,7 +5,7 @@ site_name: 南方医科大学
 theme:
   name: material
   language: zh
-  
+  custom_dir: overrides
 
 
   palette: 
@@ -38,6 +38,8 @@ theme:
   
 copyright: Copyright © 2025 Online SMU All Rights Reserved
 
+extra_javascript:
+  - 'https://busuanzi.9420.ltd/js' #busuanzi
 
 
 
