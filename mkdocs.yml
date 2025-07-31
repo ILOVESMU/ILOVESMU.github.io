@@ -4,7 +4,35 @@ site_name: 南方医科大学
 
 theme:
   name: material
+  language: zh
+  
 
+
+  palette: 
+    
+  
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+ 
+   
+   
+  features:
+    - navigation.tabs 
+    - search.highlight 
+    - navigation.indexes 
+    - navigation.expand 
+    - navigation.path
+    - navigation.footer
 
 
   
