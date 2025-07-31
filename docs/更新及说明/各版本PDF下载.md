@@ -4,4 +4,4 @@
 
 如果下载速度太慢，可以到各大QQ群群文件找一下最新版本下载。
 
-可以参考<https://mp.weixin.qq.com/s/f6ub4iCToPvh-3macSwa_w>
+<font color="green">往届参考</font>：<https://mp.weixin.qq.com/s/f6ub4iCToPvh-3macSwa_w>
