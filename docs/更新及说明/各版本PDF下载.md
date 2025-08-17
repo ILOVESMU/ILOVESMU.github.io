@@ -7,4 +7,4 @@
 <font color="green">往届参考</font>：<https://mp.weixin.qq.com/s/f6ub4iCToPvh-3macSwa_w>  
 
 2024.8.1 《南医大新生入学不全宝典v1.1致小吐司》  
-链接: https://pan.baidu.com/s/1L4yWtdIy9bp2olp0Nk4liw?pwd=thqv 提取码: thqv 复制这段内容后打开百度网盘手机App，操作更方便哦 --来自百度网盘超级会员v3的分享  
+链接: <https://pan.baidu.com/s/1L4yWtdIy9bp2olp0Nk4liw?pwd=thqv> 提取码: thqv 复制这段内容后打开百度网盘手机App，操作更方便哦 --来自百度网盘超级会员v3的分享  
